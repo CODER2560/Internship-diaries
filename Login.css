@@ -1,0 +1,11 @@
+.parent{
+    background-color: rgb(230, 237, 237);
+    min-width: fit-content;
+    margin-top: 00px;
+    position:absolute;
+    left: 450px ;
+    border-style: solid;
+    height: 250px;
+    width: 400px;
+}
+
